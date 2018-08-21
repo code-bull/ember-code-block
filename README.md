@@ -1,5 +1,7 @@
 # yaml-code-block
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/code-bull/ember-code-block.svg)](https://greenkeeper.io/)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
